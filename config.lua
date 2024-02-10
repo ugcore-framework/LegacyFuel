@@ -1,8 +1,5 @@
 Config = {}
 
--- Are you using ESX? Turn this to true if you would like fuel & jerry cans to cost something.
-Config.UseESX = true
-
 -- What should the price of jerry cans be?
 Config.JerryCanCost = 100
 Config.RefillCost = 50 -- If it is missing half of it capacity, this amount will be divided in half, and so on.
