@@ -36,11 +36,6 @@ Config.Strings = {
 	TotalCost = "Cost",
 }
 
-if not Config.UseESX then
-	Config.Strings.PurchaseJerryCan = "Press ~g~E ~w~to grab a jerry can"
-	Config.Strings.RefillJerryCan = "Press ~g~E ~w~ to refill the jerry can"
-end
-
 Config.PumpModels = {
 	[-2007231801] = true,
 	[1339433404] = true,
